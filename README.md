@@ -5,7 +5,7 @@ Para testes do projeto, estou disponibilizando duas opções
 1 - O arquivo apk (android) para instalação. O dowload é via google drive. 
 link: https://drive.google.com/uc?export=download&id=18pFYoa-PkouSOvNdNVqU7YG0LOfuBa-_
 
-Será necessário permitir as fontes externas.
+Será necessário permitir a instalação de aplicativos por fontes externas.
 
 
 2 - A principal função de cálculo, em Dart e em Javascript para testes direto no navegador. 
